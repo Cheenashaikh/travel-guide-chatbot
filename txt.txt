@@ -1,0 +1,562 @@
+Country: France
+Capital: Paris
+Famous for: Eiffel Tower, Louvre Museum, Seine River cruises.
+Best time to visit: April to June, October to early November.
+Food: Croissants, Baguettes, Escargots.
+
+Country: Japan
+Capital: Tokyo
+Famous for: Cherry blossoms, Mount Fuji, Kyoto temples.
+Best time to visit: Spring and Autumn.
+Food: Sushi, Ramen, Tempura.
+
+Country: Italy
+Capital: Rome
+Famous for: Colosseum, Venice canals, Pizza, Pasta.
+Best time to visit: April to June, September to October.
+Food: Gelato, Pasta, Pizza.
+
+Country: Turkey
+Capital: Ankara
+Famous for: Hagia Sophia, Cappadocia hot air balloons, Bosphorus cruises.
+Best time to visit: April to May, September to October.
+Food: Kebab, Baklava, Turkish Tea.
+
+Country: Egypt
+Capital: Cairo
+Famous for: Pyramids of Giza, Nile River, Luxor Temples.
+Best time to visit: October to April.
+Food: Koshari, Falafel, Shawarma.
+
+Country: United Arab Emirates
+Capital: Abu Dhabi
+Famous for: Burj Khalifa, Desert Safaris, Luxury malls.
+Best time to visit: November to March.
+Food: Shawarma, Hummus, Luqaimat.
+
+Country: Switzerland
+Capital: Bern
+Famous for: Alps, Scenic train rides, Swiss chocolates.
+Best time to visit: December to March (skiing), June to September (hiking).
+Food: Fondue, Raclette, Swiss Chocolate.
+
+Country: Germany
+Capital: Berlin
+Famous for: Brandenburg Gate, Oktoberfest, Black Forest.
+Best time to visit: May to September.
+Food: Bratwurst, Pretzels, Sauerkraut.
+
+Country: Spain
+Capital: Madrid
+Famous for: Flamenco, Sagrada Familia, Ibiza nightlife.
+Best time to visit: March to May, September to November.
+Food: Paella, Tapas, Churros.
+
+Country: Greece
+Capital: Athens
+Famous for: Acropolis, Santorini sunsets, Greek Islands.
+Best time to visit: April to June, September to October.
+Food: Moussaka, Souvlaki, Greek Salad.
+
+Country: United States
+Capital: Washington, D.C.
+Famous for: Statue of Liberty, Grand Canyon, New York City.
+Best time to visit: Depends on state, generally May to September.
+Food: Burgers, Hotdogs, Apple Pie.
+
+Country: United Kingdom
+Capital: London
+Famous for: Big Ben, Buckingham Palace, Stonehenge.
+Best time to visit: March to June, September to November.
+Food: Fish and Chips, Roast Dinner, English Tea.
+
+Country: Canada
+Capital: Ottawa
+Famous for: Niagara Falls, Banff National Park, Northern Lights.
+Best time to visit: May to September, December for winter sports.
+Food: Poutine, Maple Syrup, Butter Tarts.
+
+Country: Australia
+Capital: Canberra
+Famous for: Sydney Opera House, Great Barrier Reef, Kangaroos.
+Best time to visit: September to November, March to May.
+Food: Meat Pie, Lamingtons, Vegemite.
+
+Country: China
+Capital: Beijing
+Famous for: Great Wall, Forbidden City, Terracotta Army.
+Best time to visit: April to May, September to October.
+Food: Dumplings, Peking Duck, Noodles.
+
+Country: India
+Capital: New Delhi
+Famous for: Taj Mahal, Jaipur palaces, Kerala backwaters.
+Best time to visit: October to March.
+Food: Biryani, Butter Chicken, Samosa.
+
+Country: Pakistan
+Capital: Islamabad
+Famous for: Lahore Fort, Hunza Valley, Badshahi Mosque.
+Best time to visit: October to March.
+Food: Biryani, Nihari, Chapli Kebab.
+
+Country: Thailand
+Capital: Bangkok
+Famous for: Beaches, Temples, Floating markets.
+Best time to visit: November to February.
+Food: Pad Thai, Tom Yum Soup, Mango Sticky Rice.
+
+Country: Indonesia
+Capital: Jakarta
+Famous for: Bali beaches, Borobudur Temple, Komodo Dragons.
+Best time to visit: May to September.
+Food: Nasi Goreng, Satay, Gado-Gado.
+
+Country: Malaysia
+Capital: Kuala Lumpur
+Famous for: Petronas Towers, Batu Caves, Langkawi.
+Best time to visit: December to April.
+Food: Nasi Lemak, Satay, Roti Canai.
+
+Country: Singapore
+Capital: Singapore
+Famous for: Marina Bay Sands, Sentosa Island, Gardens by the Bay.
+Best time to visit: February to April.
+Food: Laksa, Hainanese Chicken Rice, Chilli Crab.
+
+Country: South Korea
+Capital: Seoul
+Famous for: K-pop, Gyeongbokgung Palace, Jeju Island.
+Best time to visit: April to June, September to November.
+Food: Kimchi, Bibimbap, Korean BBQ.
+
+Country: Vietnam
+Capital: Hanoi
+Famous for: Ha Long Bay, Cu Chi Tunnels, Mekong Delta.
+Best time to visit: March to April, September to November.
+Food: Pho, Spring Rolls, Banh Mi.
+
+Country: Nepal
+Capital: Kathmandu
+Famous for: Mount Everest, Himalayan trekking, Lumbini.
+Best time to visit: March to May, September to November.
+Food: Momo, Dal Bhat, Sel Roti.
+
+Country: Sri Lanka
+Capital: Colombo
+Famous for: Sigiriya Rock, Beaches, Tea Plantations.
+Best time to visit: December to April.
+Food: Rice and Curry, Hoppers, Kottu Roti.
+
+Country: Maldives
+Capital: Malé
+Famous for: Overwater bungalows, Coral reefs, White sand beaches.
+Best time to visit: November to April.
+Food: Mas Huni, Fish Curry, Garudiya.
+
+Country: Brazil
+Capital: Brasília
+Famous for: Christ the Redeemer, Amazon Rainforest, Rio Carnival.
+Best time to visit: December to March.
+Food: Feijoada, Pão de Queijo, Churrasco.
+
+Country: Argentina
+Capital: Buenos Aires
+Famous for: Tango, Patagonia, Iguazu Falls.
+Best time to visit: March to May, September to November.
+Food: Asado, Empanadas, Dulce de Leche.
+
+Country: Mexico
+Capital: Mexico City
+Famous for: Chichen Itza, Cancun beaches, Day of the Dead.
+Best time to visit: November to April.
+Food: Tacos, Enchiladas, Tamales.
+
+Country: Peru
+Capital: Lima
+Famous for: Machu Picchu, Sacred Valley, Amazon Rainforest.
+Best time to visit: May to September.
+Food: Ceviche, Lomo Saltado, Anticuchos.
+
+Country: Chile
+Capital: Santiago
+Famous for: Atacama Desert, Torres del Paine, Easter Island.
+Best time to visit: September to November, March to May.
+Food: Empanadas, Pastel de Choclo, Cazuela.
+
+Country: South Africa
+Capital: Pretoria
+Famous for: Table Mountain, Kruger National Park, Cape Town.
+Best time to visit: May to September.
+Food: Braai, Biltong, Bunny Chow.
+
+Country: Kenya
+Capital: Nairobi
+Famous for: Safari, Masai Mara, Great Rift Valley.
+Best time to visit: June to October.
+Food: Ugali, Nyama Choma, Sukuma Wiki.
+
+Country: Tanzania
+Capital: Dodoma
+Famous for: Mount Kilimanjaro, Zanzibar beaches, Serengeti.
+Best time to visit: June to October.
+Food: Ugali, Pilau, Mishkaki.
+
+Country: Morocco
+Capital: Rabat
+Famous for: Marrakech markets, Sahara Desert, Chefchaouen.
+Best time to visit: March to May, September to October.
+Food: Couscous, Tagine, Mint Tea.
+
+Country: Saudi Arabia
+Capital: Riyadh
+Famous for: Mecca, Madinah, Edge of the World.
+Best time to visit: October to March.
+Food: Kabsa, Shawarma, Dates.
+
+Country: Qatar
+Capital: Doha
+Famous for: Museum of Islamic Art, Souq Waqif, Modern skyline.
+Best time to visit: November to March.
+Food: Machboos, Harees, Luqaimat.
+
+Country: Jordan
+Capital: Amman
+Famous for: Petra, Dead Sea, Wadi Rum desert.
+Best time to visit: March to May, September to November.
+Food: Mansaf, Falafel, Hummus.
+
+Country: Iran
+Capital: Tehran
+Famous for: Persepolis, Isfahan mosques, Persian Gardens.
+Best time to visit: March to May, September to November.
+Food: Kebabs, Fesenjan, Tahdig.
+
+Country: Russia
+Capital: Moscow
+Famous for: Red Square, Kremlin, Trans-Siberian Railway.
+Best time to visit: May to September.
+Food: Borscht, Blini, Pelmeni.
+Country: Ukraine
+Capital: Kyiv
+Famous for: St. Sophia’s Cathedral, Carpathian Mountains, Black Sea coast.
+Best time to visit: May to September.
+Food: Borscht, Varenyky, Holubtsi.
+
+Country: Poland
+Capital: Warsaw
+Famous for: Krakow old town, Auschwitz, Tatra Mountains.
+Best time to visit: May to September.
+Food: Pierogi, Bigos, Kielbasa.
+
+Country: Czech Republic
+Capital: Prague
+Famous for: Charles Bridge, Prague Castle, Old Town Square.
+Best time to visit: May to September.
+Food: Goulash, Trdelník, Dumplings.
+
+Country: Austria
+Capital: Vienna
+Famous for: Schönbrunn Palace, Alps, Classical music.
+Best time to visit: April to October.
+Food: Schnitzel, Sachertorte, Strudel.
+
+Country: Hungary
+Capital: Budapest
+Famous for: Thermal baths, Danube River, Parliament building.
+Best time to visit: March to May, September to November.
+Food: Goulash, Lángos, Kürtőskalács.
+
+Country: Portugal
+Capital: Lisbon
+Famous for: Algarve beaches, Porto wine, Fado music.
+Best time to visit: March to May, September to October.
+Food: Pastel de Nata, Bacalhau, Francesinha.
+
+Country: Netherlands
+Capital: Amsterdam
+Famous for: Tulips, Windmills, Canals.
+Best time to visit: April to October.
+Food: Stroopwafels, Haring, Poffertjes.
+
+Country: Belgium
+Capital: Brussels
+Famous for: Grand Place, Chocolate, Waffles.
+Best time to visit: April to October.
+Food: Belgian Waffles, Fries, Mussels.
+
+Country: Denmark
+Capital: Copenhagen
+Famous for: Tivoli Gardens, Nyhavn, The Little Mermaid.
+Best time to visit: May to September.
+Food: Smørrebrød, Danish Pastries, Frikadeller.
+
+Country: Sweden
+Capital: Stockholm
+Famous for: Stockholm archipelago, ABBA, Northern Lights.
+Best time to visit: May to September.
+Food: Meatballs, Gravlax, Cinnamon Buns.
+
+Country: Norway
+Capital: Oslo
+Famous for: Fjords, Midnight Sun, Northern Lights.
+Best time to visit: May to September.
+Food: Salmon, Rakfisk, Lefse.
+
+Country: Finland
+Capital: Helsinki
+Famous for: Saunas, Northern Lights, Lapland.
+Best time to visit: June to August, December for winter.
+Food: Rye Bread, Karjalanpiirakka, Salmon Soup.
+
+Country: Iceland
+Capital: Reykjavik
+Famous for: Geysers, Glaciers, Blue Lagoon.
+Best time to visit: June to August.
+Food: Skyr, Lamb Soup, Fish Stew.
+
+Country: Ireland
+Capital: Dublin
+Famous for: Cliffs of Moher, Guinness, Castles.
+Best time to visit: April to September.
+Food: Irish Stew, Soda Bread, Boxty.
+
+Country: Scotland (UK)
+Capital: Edinburgh
+Famous for: Edinburgh Castle, Loch Ness, Highlands.
+Best time to visit: May to September.
+Food: Haggis, Shortbread, Scotch Whisky.
+
+Country: New Zealand
+Capital: Wellington
+Famous for: Hobbiton, Fiordland, Adventure sports.
+Best time to visit: December to March.
+Food: Pavlova, Hangi, Meat Pie.
+
+Country: Philippines
+Capital: Manila
+Famous for: Boracay, Palawan, Chocolate Hills.
+Best time to visit: December to May.
+Food: Adobo, Lechon, Halo-Halo.
+
+Country: Cambodia
+Capital: Phnom Penh
+Famous for: Angkor Wat, Royal Palace, Mekong River.
+Best time to visit: November to March.
+Food: Amok, Bai Sach Chrouk, Num Pang.
+
+Country: Laos
+Capital: Vientiane
+Famous for: Luang Prabang, Mekong River, Waterfalls.
+Best time to visit: November to March.
+Food: Laap, Sticky Rice, Khao Piak Sen.
+
+Country: Myanmar
+Capital: Naypyidaw
+Famous for: Bagan temples, Inle Lake, Shwedagon Pagoda.
+Best time to visit: November to February.
+Food: Mohinga, Tea Leaf Salad, Shan Noodles.
+
+Country: Bhutan
+Capital: Thimphu
+Famous for: Paro Taktsang, Monasteries, Himalayas.
+Best time to visit: March to May, September to November.
+Food: Ema Datshi, Red Rice, Momos.
+
+Country: Bangladesh
+Capital: Dhaka
+Famous for: Sundarbans, Cox’s Bazar, Rickshaws.
+Best time to visit: November to February.
+Food: Biryani, Panta Ilish, Mishti Doi.
+
+Country: Afghanistan
+Capital: Kabul
+Famous for: Buddhas of Bamiyan, Mountains, History.
+Best time to visit: May to October.
+Food: Kabuli Pulao, Mantu, Bolani.
+
+Country: Uzbekistan
+Capital: Tashkent
+Famous for: Samarkand, Silk Road, Registan Square.
+Best time to visit: April to June, September to November.
+Food: Plov, Samsa, Lagman.
+
+Country: Kazakhstan
+Capital: Astana (Nur-Sultan)
+Famous for: Steppe landscapes, Silk Road, Modern architecture.
+Best time to visit: May to September.
+Food: Beshbarmak, Shashlik, Baursak.
+
+Country: Azerbaijan
+Capital: Baku
+Famous for: Flame Towers, Caspian Sea, Old City.
+Best time to visit: April to June, September to October.
+Food: Plov, Dolma, Kebab.
+
+Country: Armenia
+Capital: Yerevan
+Famous for: Mount Ararat views, Monasteries, Lake Sevan.
+Best time to visit: May to October.
+Food: Lavash, Khorovats, Dolma.
+
+Country: Georgia
+Capital: Tbilisi
+Famous for: Caucasus mountains, Wine, Tbilisi old town.
+Best time to visit: May to October.
+Food: Khachapuri, Khinkali, Churchkhela.
+
+Country: Lebanon
+Capital: Beirut
+Famous for: Cedars, Jeita Grotto, Byblos.
+Best time to visit: April to June, September to November.
+Food: Shawarma, Hummus, Baklava.
+
+Country: Israel
+Capital: Jerusalem
+Famous for: Western Wall, Dead Sea, Tel Aviv beaches.
+Best time to visit: March to May, September to November.
+Food: Falafel, Shawarma, Hummus.
+
+Country: Cyprus
+Capital: Nicosia
+Famous for: Beaches, Ancient ruins, Mountains.
+Best time to visit: April to June, September to October.
+Food: Halloumi, Souvlaki, Meze.
+
+Country: Oman
+Capital: Muscat
+Famous for: Desert dunes, Mountains, Forts.
+Best time to visit: October to April.
+Food: Shuwa, Halwa, Mashuai.
+
+Country: Kuwait
+Capital: Kuwait City
+Famous for: Towers, Museums, Arabian Gulf.
+Best time to visit: November to March.
+Food: Machboos, Harees, Dates.
+
+Country: Bahrain
+Capital: Manama
+Famous for: Formula 1, Pearl diving, Forts.
+Best time to visit: November to March.
+Food: Machboos, Qouzi, Balaleet.
+
+Country: Yemen
+Capital: Sana’a
+Famous for: Old city architecture, Socotra island.
+Best time to visit: October to March.
+Food: Saltah, Mandi, Fahsa.
+
+Country: Ethiopia
+Capital: Addis Ababa
+Famous for: Lalibela churches, Simien Mountains, Coffee.
+Best time to visit: October to March.
+Food: Injera, Doro Wat, Tibs.
+
+Country: Nigeria
+Capital: Abuja
+Famous for: Zuma Rock, Lagos beaches, Nollywood.
+Best time to visit: November to March.
+Food: Jollof Rice, Suya, Egusi Soup.
+
+Country: Ghana
+Capital: Accra
+Famous for: Cape Coast Castle, Beaches, Kente cloth.
+Best time to visit: November to March.
+Food: Jollof Rice, Banku, Waakye.
+
+Country: Uganda
+Capital: Kampala
+Famous for: Gorilla trekking, Lake Victoria, Safari.
+Best time to visit: June to August, December to February.
+Food: Matoke, Rolex, Luwombo.
+
+Country: Rwanda
+Capital: Kigali
+Famous for: Mountain gorillas, Volcanoes National Park.
+Best time to visit: June to September.
+Food: Ugali, Brochettes, Akabenz.
+
+Country: Zimbabwe
+Capital: Harare
+Famous for: Victoria Falls, Safari, Great Zimbabwe ruins.
+Best time to visit: May to October.
+Food: Sadza, Nyama, Mopane Worms.
+
+Country: Zambia
+Capital: Lusaka
+Famous for: Victoria Falls, Zambezi River, Safari.
+Best time to visit: May to October.
+Food: Nshima, Kapenta, Chikanda.
+
+Country: Botswana
+Capital: Gaborone
+Famous for: Okavango Delta, Safari, Kalahari Desert.
+Best time to visit: May to September.
+Food: Seswaa, Pap, Vetkoek.
+
+Country: Madagascar
+Capital: Antananarivo
+Famous for: Baobab trees, Lemurs, Unique wildlife.
+Best time to visit: April to November.
+Food: Romazava, Rice, Zebu meat.
+
+Country: Seychelles
+Capital: Victoria
+Famous for: Beaches, Coral reefs, Marine life.
+Best time to visit: April to May, October to November.
+Food: Grilled Fish, Coconut Curry, Ladob.
+
+Country: Mauritius
+Capital: Port Louis
+Famous for: Beaches, Lagoons, Multicultural heritage.
+Best time to visit: May to December.
+Food: Dholl Puri, Curry, Gateau Piment.
+
+Country: Fiji
+Capital: Suva
+Famous for: Islands, Coral reefs, Beaches.
+Best time to visit: May to October.
+Food: Kokoda, Lovo, Roti.
+
+Country: Samoa
+Capital: Apia
+Famous for: Beaches, Lava fields, Polynesian culture.
+Best time to visit: May to October.
+Food: Palusami, Oka, Breadfruit.
+
+Country: Tonga
+Capital: Nuku'alofa
+Famous for: Whale watching, Coral reefs, Islands.
+Best time to visit: May to October.
+Food: Lu Pulu, Ota Ika, Root crops.
+
+Country: Papua New Guinea
+Capital: Port Moresby
+Famous for: Tribes, Diving, Mountains.
+Best time to visit: May to October.
+Food: Mumu, Sago, Taro.
+
+Country: Solomon Islands
+Capital: Honiara
+Famous for: WWII history, Diving, Islands.
+Best time to visit: May to October.
+Food: Poi, Fish, Coconut dishes.
+
+Country: Maldives
+Capital: Malé
+Famous for: Luxury resorts, Coral reefs, White beaches.
+Best time to visit: November to April.
+Food: Fish Curry, Garudiya, Mas Huni.
+
+Country: Sri Lanka
+Capital: Colombo
+Famous for: Sigiriya, Beaches, Tea plantations.
+Best time to visit: December to March.
+Food: Kottu, Rice and Curry, Hoppers.
+
+Country: Mongolia
+Capital: Ulaanbaatar
+Famous for: Gobi Desert, Nomadic culture, Horse riding.
+Best time to visit: May to September.
+Food: Buuz, Khuushuur, Airag.
